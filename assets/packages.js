@@ -6,7 +6,7 @@
 (function () {
   'use strict';
 
-  var WHATSAPP_NUMBER = '917795472010'; // country code + number, no + or spaces
+  var WHATSAPP_NUMBER = '917892545051'; // country code + number, no + or spaces
 
   var PACKAGES = [
     {
