@@ -77,7 +77,7 @@ const phone = countryCode + ' ' + (data.get('phone') || '').toString().trim();  
         `Hello Diamond Ridge Constructions,\nMy name is ${name} (${phone}).\n${message}`
       );
       note.textContent = 'Opening WhatsApp to send your enquiry…';
-      window.open(`https://wa.me/917795472010?text=${text}`, '_blank');
+      window.open(`https://wa.me/917892545051?text=${text}`, '_blank');
       form.reset();
     });
   }
